@@ -1,0 +1,23 @@
+.uploader-container{
+  margin: 10px;
+}
+
+.uploader-progress-bar{
+  margin-bottom: 20px;
+}
+
+.bar {
+  height: 18px;  
+  
+}
+
+#video-container{
+  margin-top: 20px;
+}
+
+.video-item{
+  float: left;
+  margin: 10px;
+  width: 260px;
+  height: 146px;
+}
